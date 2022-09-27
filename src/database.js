@@ -1,3 +1,2 @@
-const database=['nath']
-
-export {database}
+const database = ['nath'];
+export { database };
